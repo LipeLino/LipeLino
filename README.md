@@ -10,7 +10,7 @@
 
 <p align="center">
   BI Analyst and Creative Developer<br>
-  Co-founder, Turingui
+  Building Turingui
 </p>
 
 ## Transmission
@@ -30,7 +30,7 @@ I turn data into decisions people can act on, and build the web tools around the
 | Nov 2025 to now | BI Analyst, Sicoob Frutal |
 | 2025 | BSc Information Systems, UEMG |
 | Two years | Data analysis and IT governance intern, Cervejaria Cidade Imperial |
-| Now | Co-founder, [Turingui](https://turingui.com) |
+| Now | Building [Turingui](https://turingui.com) |
 
 At Sicoob I built the credit-risk report in Power BI (provisioning scenarios, Basel indicators) and cut its refresh time by 90%. Python automations save about a workday a week.
 
