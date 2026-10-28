@@ -3,7 +3,7 @@
 <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/m/hero-light.svg">
 <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-<img src="assets/hero-dark.svg" width="100%" alt="Mateus Lino, BI Analyst and Creative Developer. Frutal, MG, Brazil, UTC-3. Amber ASCII portrait on a CRT, with lamps for BI, web and 3D." title="Mateus Lino: open mateuslino.com">
+<img src="assets/hero-dark.svg" width="100%" alt="Mateus Lino, BI Analyst and Creative Developer. Frutal, MG, Brazil, UTC-3. Portrait photo in a viewfinder frame, with lamps for BI, web and 3D." title="Mateus Lino: open mateuslino.com">
 </picture></a></p>
 
 BI analyst at Sicoob. I build the tools around the numbers. Building [Turingui](https://turingui.com), a digital experience studio.
